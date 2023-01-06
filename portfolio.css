@@ -65,9 +65,8 @@ header{
 .about{
     background-color: antiquewhite;
     border-radius: 5px;
-    padding: 130px 150px;
-    margin: 100px 230px;
     text-align: center;
+   
 }
 .abt-title{
 
@@ -82,17 +81,27 @@ font-weight: 700;
 }
 main{
     max-width: 1140;
-    margin: 0 auto;
+    margin: 150px 250px;
+    background-color: #ffebdd;
+    padding: 30px;
+
 }
 .about-info-container{
+display: flex;
+justify-content: space-around;
 
 }
 .about-info{
-
+    gap: 20px;
+   
+    position:
 }
 .info-titlte{
-
+font-size: 16px;
+color: #757575;
 }
 .info-descrip {
-     5
+    font-size: 20px;
+  font-weight: 1000px;
+
 }
